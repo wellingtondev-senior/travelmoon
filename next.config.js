@@ -9,7 +9,7 @@ const nextConfig = {
             },
             {
                 protocol: 'https',
-                hostname: 'ctoperadora.s3.amazonaws.com'
+                hostname: 'travelmoon.vercel.app'
             }
         ],
     },
